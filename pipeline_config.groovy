@@ -1,3 +1,5 @@
 libraries {
-    maven
+    maven {
+        override = false
+    }
 }
