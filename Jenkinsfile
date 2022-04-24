@@ -1,3 +1,3 @@
-jte.libs.maven.build()
+build()
 unit_test()
 deployx()
