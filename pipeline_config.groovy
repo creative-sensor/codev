@@ -1,4 +1,6 @@
 
 libraries {
-    submaven
+    submaven {
+        build{}
+    }
 }
