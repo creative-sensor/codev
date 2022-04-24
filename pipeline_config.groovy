@@ -1,2 +1,3 @@
-build()
-unit_test()
+libraries {
+    maven
+}
