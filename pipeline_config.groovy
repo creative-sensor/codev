@@ -1,8 +1,6 @@
 
 libraries {
-    submaven
+    maven
 }
 
-stages {
-    jte.submaven.build()
-}
+
