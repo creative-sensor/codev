@@ -4,3 +4,6 @@ libraries {
 }
 
 
+steps {
+    unit_test
+}
