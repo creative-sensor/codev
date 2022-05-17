@@ -6,5 +6,6 @@ libraries {
 
 stages {
     freedom {
+        unit_test
     }
 }
