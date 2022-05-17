@@ -5,5 +5,5 @@ libraries {
 
 
 steps {
-    unit_test
+    unit_test {}
 }
