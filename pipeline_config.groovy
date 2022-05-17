@@ -4,6 +4,8 @@ libraries {
 }
 
 
-steps {
-    unit_test {}
+stages {
+    freedom {
+        unit_test
+    }
 }
