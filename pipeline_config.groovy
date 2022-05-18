@@ -4,6 +4,10 @@ libraries {
 }
 
 
+
+steps {
+    mineown
+}
 stages {
     freedom {
         deployx

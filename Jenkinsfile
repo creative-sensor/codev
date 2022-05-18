@@ -1,5 +1,5 @@
 
 // reorder step on my own
-mineown()
+jte.steps.mineown()
 jte.stages.freedom()
 
