@@ -7,6 +7,6 @@ libraries {
 stages {
     freedom {
         deployx
-        mineown
+        //mineown
     }
 }
